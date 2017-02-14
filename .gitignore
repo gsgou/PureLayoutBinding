@@ -1,0 +1,33 @@
+## Ignore Xamarin Studio temporary files and build results
+
+# Xamarin.Android
+Resource.designer.cs
+
+# Xamarin Components
+Components/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Local user preferences
+*.userprefs
+*.suo
+
+# pidb files are created for each assembly or project
+*.pidb
+
+# Mac resource folder
+.DS_Store
+
+# NuGet Packages Directory
+packages/
+## TODO: If the tool you use requires repositories.config uncomment the next line
+#!packages/repositories.config
+
+# Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
+# This line needs to be after the ignore of the build folder (and the packages folder if the line above has been uncommented)
+#!packages/build/
+
+# Windows Store app package directory
+AppPackages/

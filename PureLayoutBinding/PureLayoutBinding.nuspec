@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>PureLayoutBinding</id>
+    <version>1.1.0</version>
+    <description>
+      This is a Xamarin.iOS binding project for PureLayout 3.0.2
+    </description>
+    <title>PureLayoutBinding</title>
+    <language>en-US</language>
+    <copyright>2017 - Giorgos Sgouridis</copyright>
+    <authors>Giorgos Sgouridis</authors>
+    <projectUrl>https://github.com/sgou/PureLayoutBinding</projectUrl>
+    <licenseUrl>https://github.com/sgou/PureLayoutBinding/blob/master/LICENSE</licenseUrl>
+    <!--
+    <iconUrl></iconUrl>
+    -->
+    <tags>PureLayout Xamarin Xamarin.iOS</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/PureLayoutBinding.dll" target="lib/Xamarin.iOS10" />
+  </files>
+</package>
