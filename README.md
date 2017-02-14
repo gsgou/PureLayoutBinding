@@ -1,6 +1,6 @@
 ## PureLayoutBinding ##
 [PureLayout](https://github.com/PureLayout/PureLayout) Binding for Xamarin.iOS  
-[![license](https://img.shields.io/github/license/PureLayoutBinding/apistatus.svg)]()  
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/sgou/PureLayoutBinding)  
   
 PureLayout 3.0.2  
 Compiled with iOS 9.3 SDK  
